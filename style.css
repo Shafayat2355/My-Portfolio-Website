@@ -253,8 +253,7 @@ h2 {
 /* About */
 #about {
   background:
-    linear-gradient(rgba(10, 10, 10, 0.85), rgba(10, 10, 10, 0.9)),
-    url("./images/2.jpeg") center/cover no-repeat fixed;
+    linear-gradient(rgba(10, 10, 10, 0.85), rgba(10, 10, 10, 0.9)),url("./images/2.jpeg") center/cover no-repeat fixed;
 }
 
 .about-grid {
@@ -289,8 +288,7 @@ h2 {
 /* Education */
 #education {
   background:
-    linear-gradient(rgba(10, 10, 10, 0.5), rgba(10, 10, 10, 0.5)),
-    url("./images/3.jpeg") center/cover no-repeat fixed;
+    linear-gradient(rgba(10, 10, 10, 0.5), rgba(10, 10, 10, 0.5)),url("./images/3.jpeg") center/cover no-repeat fixed;
 }
 
 .edu-grid {
@@ -302,8 +300,7 @@ h2 {
 /* ================ SKILLS - More Beautiful Design ================ */
 #skills {
   background:
-    linear-gradient(rgba(10, 10, 10, 0.5), rgba(10, 10, 10, 0.5)),
-    url("./images/4.jpeg") center/cover no-repeat fixed;
+    linear-gradient(rgba(10, 10, 10, 0.5), rgba(10, 10, 10, 0.5)),url("./images/4.jpeg") center/cover no-repeat fixed;
 }
 
 .skills-grid {
@@ -343,8 +340,7 @@ h2 {
 /* Projects - New Design with Cards */
 #projects {
   background:
-    linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("./images/5.jpeg") center/cover no-repeat fixed;
+    linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url("./images/5.jpeg") center/cover no-repeat fixed;
 }
 
 .projects-grid {
@@ -389,15 +385,13 @@ h2 {
 /*Testimonials*/
 #testimonials {
   background:
-    linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("./images/4.jpeg") center/cover no-repeat fixed;
+    linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url("./images/4.jpeg") center/cover no-repeat fixed;
 }
 
 /* Contact */
 #contact {
   background:
-    linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("./images/1.jpeg") center/cover no-repeat fixed;
+    linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url("./images/1.jpeg") center/cover no-repeat fixed;
 }
 
 .contact-container {
